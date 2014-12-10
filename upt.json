@@ -1,0 +1,10 @@
+{
+  "name": "hw2/modules/js/src/library/date-time/doc",
+  "dependencies": {
+    "%parent": "hw2-core/js-library-date-time"
+  },
+  "keep": [
+    ".git/config"
+  ],
+  "license": "http://www.hyperweb2.com/terms"
+}
