@@ -6,7 +6,7 @@
 'use strict';
 
 hw2.define([
-    'hw2!PATH_JS_LIB:date-time/include.js'
+    'hw2!{PATH_JS_LIB}date-time/include.js'
 ],function () {
     $ = this;
     $.Time = $.Class({members: [

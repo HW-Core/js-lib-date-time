@@ -6,8 +6,8 @@
 'use strict';
 
 hw2.define([
-    'hw2!PATH_JS_LIB:date-time/include.js',
-    'hw2!PATH_JS_LIB:common/Time.js'
+    'hw2!{PATH_JS_LIB}date-time/include.js',
+    'hw2!{PATH_JS_LIB}common/Time.js'
 ],function () {
     var $ = this;
 });
