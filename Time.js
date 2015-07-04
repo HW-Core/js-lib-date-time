@@ -8,7 +8,7 @@
 hwc.define([
     'hwc!{PATH_JS_LIB}date-time/include.js'
 ],function () {
-    $ = this;
+    var $ = this;
     $.Time = $.Class({members: [
             {
                 attributes: ["public", "static"],
